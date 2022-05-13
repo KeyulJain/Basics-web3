@@ -1,0 +1,13 @@
+my-wave-portal/node_modules
+my-wave-portal/.env
+my-wave-portal/coverage
+my-wave-portal/coverage.json
+my-wave-portal/typechain
+
+#Hardhat files
+my-wave-portal/cache
+my-wave-portal/artifacts
+
+
+waveportal-starter-project/node_modules
+waveportal-starter-project/.DS_Store
